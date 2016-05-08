@@ -1,4 +1,4 @@
-(defproject inspector "0.1.0"
+(defproject inspector "0.1.1"
   :description "Object inspector"
   :url "http://github.com/dbushenko/inspector"
   :license {:name "Eclipse Public License"

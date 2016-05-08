@@ -6,7 +6,7 @@ A Clojure library designed to inspect methods and properties of a jaba object
 
         (require 'inspector.core)
         (inspect 42)
-        (inpsect "abc")
+        (inspect "abc")
 
 ## License
 
