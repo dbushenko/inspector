@@ -4,9 +4,15 @@ A Clojure library designed to inspect methods and properties of a jaba object
 
 ## Usage
 
-        (require 'inspector.core)
-        (inspect 42)
-        (inspect "abc")
+Add to dependencies in project.clj
+
+    [inspector "0.1.1-SNAPSHOT"]
+
+Then in REPL:
+
+    (require 'inspector.core)
+    (inspect 42)
+    (inspect "abc")
 
 ## License
 
